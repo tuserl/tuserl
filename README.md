@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning how to debug code that worked yesterday but refuses to work today
 - 💞️ I’m looking to collaborate on anything that doesn’t involve “it works on my machine” (but it will anyway)
 - 📫 How to reach me: try email… I’m reachable, but also behaves like a backend service under load
-- 😄 Pronouns: compiled / runtime-error
-- ⚡ Fun fact: I fix one bug and spawn three new ones like it’s a skill tree
+- 😄 Pronouns: sudo / rm -rf
+- ⚡ Fun fact: I fix one bug and spawn two new ones like a binary tree expansion.
 
 <!--
 This repo is special because it appears on my profile.
