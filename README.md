@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @tuserl
+# 👋 Hi, I’m てすと
 
 - 👀 I’m interested in computers, overengineering simple problems, and suffering (sometimes voluntarily)
 - 🌱 I’m currently learning how to debug code that worked yesterday but refuses to work today
