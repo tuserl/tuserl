@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @tuserl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @tuserl
 
-<!---
-tuserl/tuserl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in computers, overengineering simple problems, and suffering (sometimes voluntarily)
+- 🌱 I’m currently learning how to debug code that worked yesterday but refuses to work today
+- 💞️ I’m looking to collaborate on anything that doesn’t involve “it works on my machine” (but it will anyway)
+- 📫 How to reach me: try email… I’m reachable, but also behaves like a backend service under load
+- 😄 Pronouns: compiled / runtime-error
+- ⚡ Fun fact: I fix one bug and spawn three new ones like it’s a skill tree
+
+<!--
+This repo is special because it appears on my profile.
+Also special because I have no idea what I’m doing half the time.
+-->
