@@ -12,7 +12,7 @@
 <!--
 ## 🧱 My interpretation of SOLID
 
-- **S — Single Responsibility:** Should only make one feature scream when you change it.
+- **S — Single Responsibility:** Should only make one person scream when you change it.
 - **O — Open/Closed:** Should be open when you add stuff, closed when you touch old stuff.
 - **L — Liskov Substitution:** Should work when you swap the parent for the child, or everyone screams.
 - **I — Interface Segregation:** Shouldn't make you carry a giant bag when you only need one thing.
